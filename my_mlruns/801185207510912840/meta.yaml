@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\santi\Desktop\productos datos\PRE-08-mlflow-tracking-local-samunozlo\my_mlruns/801185207510912840
+creation_time: 1748100611698
+experiment_id: '801185207510912840'
+last_update_time: 1748100611698
+lifecycle_stage: active
+name: wine_quality_experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\santi\Desktop\productos datos\PRE-08-mlflow-tracking-local-samunozlo\my_mlruns/801185207510912840/e959c6ac6e4d4ecb8d1aae42a8e41a0f/artifacts
+end_time: 1748100623753
+entry_point_name: ''
+experiment_id: '801185207510912840'
+lifecycle_stage: active
+run_id: e959c6ac6e4d4ecb8d1aae42a8e41a0f
+run_name: knn_16a7d2f3
+run_uuid: e959c6ac6e4d4ecb8d1aae42a8e41a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100623632
+status: 3
+tags: []
+user_id: santi
