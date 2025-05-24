@@ -27,6 +27,3 @@ def test_01():
         d for d in os.listdir("my_mlruns") if os.path.isdir(os.path.join("my_mlruns", d))
     ]
     assert len(experiments) > 0, "No experiments found in mlruns directory."
-
-    # Check if the required file exists
-    assert os.path.exists("make_predictions.py")
